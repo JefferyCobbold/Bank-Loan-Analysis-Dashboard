@@ -47,7 +47,7 @@ Displays total applications, funded and received amounts, average interest rates
 
 Good vs bad loan comparison (pie charts, KPIs, and percentages).
 
-2.verview Page
+2.Overview Page
 
 Monthly and categorical breakdowns of loan applications.
 
